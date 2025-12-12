@@ -1,2 +1,0 @@
-YOLO badge test file
-This PR will be merged without review!
